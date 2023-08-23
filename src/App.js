@@ -1,17 +1,17 @@
 import './App.css';
 //import './assets/sb-admin-2.min.css';
 import './assets/admin.css';
-import Sidebar from './components/Sidebar';
-import Topbar from './components/Topbar';
-import Dashboard from './components/Dashboard';
-import Footer from './components/Footer';
-import Table from './components/Table';
-import Charts from './components/Charts';
+import Sidebar from './component/Sidebar';
+import Topbar from './component/Topbar';
+import Dashboard from './component/Dashboard';
+import Footer from './component/Footer';
+import Table from './component/Table';
+import Charts from './component/Charts';
 import Createuser from './Createuser';
-import Button from './components/Button';
-import Cardcomp from './components/Cardcomp';
-import Colors from './components/Colors';
-import Login from './components/Login';
+import Button from './component/Button';
+import Cardcomp from './component/Cardcomp';
+import Colors from './component/Colors';
+import Login from './component/Login';
 import {BrowserRouter,Routes,Route } from 'react-router-dom';
 
 
