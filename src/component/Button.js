@@ -26,7 +26,7 @@ function Button() {
                             </a>
                             <a href="#" class="btn btn-success btn-circle">
                                 <i class="fas fa-check"></i>
-                            </a>
+                            </a>    
                             <a href="#" class="btn btn-info btn-circle">
                                 <i class="fas fa-info-circle"></i>
                             </a>
